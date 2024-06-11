@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 100.93px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #f92232;
+      }
+
+      .cls-4 {
+        font-size: 319.55px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 347.84px;
+      }
+
+      .cls-6 {
+        font-size: 285.83px;
+      }
+
+      .cls-7 {
+        font-size: 316.29px;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(154.63 1038.96)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-6" transform="translate(367.44 1043.19) scale(.98 1)"><tspan x="0" y="0">p</tspan><tspan class="cls-10" x="197.22" y="0">r</tspan><tspan x="319.27" y="0">int</tspan></text>
+  <g>
+    <g>
+      <polygon class="cls-8" points="1390.18 903.62 1355.67 883.69 1294.16 848.18 1276.9 858.14 1328.66 888.02 1338.42 893.65 1338.42 893.65 1372.93 913.58 1372.93 923.54 1372.93 953.42 1372.93 1024.46 1372.93 1024.46 1390.18 1014.49 1390.18 903.62 1390.18 903.62 1390.18 903.62"/>
+      <polygon class="cls-8" points="1259.65 1050.01 1259.65 1050.01 1321.17 1014.49 1321.17 994.57 1321.17 994.57 1259.65 1030.09 1259.65 1030.09 1225.14 1050.01 1146.37 1004.53 1129.12 994.57 1129.12 1014.49 1225.14 1069.93 1225.14 1069.93 1225.14 1069.93 1259.65 1050.01"/>
+      <polygon class="cls-8" points="1294.16 808.33 1294.16 808.33 1294.16 808.33 1259.65 828.25 1259.65 828.25 1198.13 863.77 1198.13 883.69 1259.65 848.18 1259.65 848.18 1294.16 828.25 1372.93 873.73 1390.18 883.69 1390.18 863.77 1294.16 808.33"/>
+      <polygon class="cls-8" points="1146.37 984.61 1163.63 994.57 1225.14 1030.09 1242.4 1020.13 1190.64 990.24 1180.88 984.61 1180.88 984.61 1146.37 964.69 1146.37 954.73 1146.37 924.84 1146.37 853.81 1146.37 853.81 1129.12 863.77 1129.12 974.65 1146.37 984.61 1146.37 984.61"/>
+      <polygon class="cls-8" points="1355.67 923.54 1338.42 913.58 1338.42 973.34 1338.42 973.34 1338.42 984.61 1338.42 984.61 1338.42 1024.46 1259.65 1069.93 1259.65 1069.93 1242.4 1079.9 1259.65 1089.86 1355.67 1034.42 1355.67 1034.42 1355.67 1034.42 1355.67 994.57 1355.67 994.57 1355.67 923.54"/>
+      <polygon class="cls-8" points="1163.63 954.73 1180.88 964.69 1180.88 904.92 1180.88 904.92 1180.88 893.65 1180.88 893.65 1180.88 853.81 1259.65 808.33 1259.65 808.33 1276.9 798.37 1259.65 788.41 1163.63 843.85 1163.63 843.85 1163.63 843.85 1163.63 883.69 1163.63 883.69 1163.63 954.73"/>
+    </g>
+    <text class="cls-7" transform="translate(1593.58 1037.72) scale(.82 1)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-4" transform="translate(1407.32 1040.99) scale(.82 1)"><tspan x="0" y="0">P</tspan></text>
+  </g>
+  <text class="cls-3" transform="translate(457.68 1168.63) scale(.96 1)"><tspan x="0" y="0">By </tspan><tspan class="cls-11" x="166.13" y="0">P</tspan><tspan class="cls-12" x="238.5" y="0">a</tspan><tspan class="cls-9" x="299.77" y="0">y</tspan><tspan class="cls-2" x="359.72" y="0">Sp</tspan><tspan class="cls-1" x="493.76" y="0">r</tspan><tspan class="cls-13" x="536.86" y="0">int</tspan></text>
+</svg>
